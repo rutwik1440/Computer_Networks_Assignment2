@@ -69,7 +69,7 @@ def run_b(linkloss, congestion_type):
         topo=NetworkTopo()
         net = Mininet(topo=topo)
     else:
-		global l
+        global l
         l = linkloss
         topo = lossyNetworkTopo()
         net = Mininet(topo=topo, link=TCLink)
