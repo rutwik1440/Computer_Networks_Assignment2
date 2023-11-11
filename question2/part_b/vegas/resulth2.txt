@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.4, TCP port 5001
+TCP congestion control set to vegas
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.2 port 47980 connected with 10.0.0.4 port 5001 (icwnd/mss/irtt=14/1448/1899)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-5.0000 sec  39.1 GBytes  67.2 Gbits/sec
+[  1] 5.0000-10.0000 sec  39.0 GBytes  66.9 Gbits/sec
+[  1] 10.0000-15.0000 sec  38.6 GBytes  66.3 Gbits/sec
+[  1] 15.0000-20.0000 sec  37.9 GBytes  65.2 Gbits/sec
+[  1] 20.0000-25.0000 sec  38.6 GBytes  66.3 Gbits/sec
+[  1] 25.0000-30.0000 sec  38.8 GBytes  66.7 Gbits/sec
+[  1] 30.0000-35.0000 sec  37.7 GBytes  64.8 Gbits/sec
+[  1] 35.0000-40.0000 sec  36.8 GBytes  63.2 Gbits/sec
+[  1] 40.0000-45.0000 sec  37.4 GBytes  64.2 Gbits/sec
+[  1] 45.0000-50.0000 sec  37.1 GBytes  63.7 Gbits/sec
+[  1] 50.0000-55.0000 sec  37.1 GBytes  63.8 Gbits/sec
+[  1] 55.0000-60.0000 sec  36.7 GBytes  63.0 Gbits/sec
+[  1] 60.0000-65.0000 sec  36.7 GBytes  63.1 Gbits/sec
+[  1] 65.0000-70.0000 sec  36.6 GBytes  62.8 Gbits/sec
+[  1] 70.0000-75.0000 sec  36.8 GBytes  63.2 Gbits/sec
+[  1] 0.0000-75.3925 sec   568 GBytes  64.7 Gbits/sec

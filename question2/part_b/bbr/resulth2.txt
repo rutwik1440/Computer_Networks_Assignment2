@@ -1,0 +1,23 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.4, TCP port 5001
+TCP congestion control set to bbr
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.2 port 33262 connected with 10.0.0.4 port 5001 (icwnd/mss/irtt=14/1448/2068)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-5.0000 sec  9.81 GBytes  16.9 Gbits/sec
+[  1] 5.0000-10.0000 sec  9.67 GBytes  16.6 Gbits/sec
+[  1] 10.0000-15.0000 sec  9.68 GBytes  16.6 Gbits/sec
+[  1] 15.0000-20.0000 sec  9.69 GBytes  16.6 Gbits/sec
+[  1] 20.0000-25.0000 sec  9.48 GBytes  16.3 Gbits/sec
+[  1] 25.0000-30.0000 sec  9.82 GBytes  16.9 Gbits/sec
+[  1] 30.0000-35.0000 sec  9.75 GBytes  16.8 Gbits/sec
+[  1] 35.0000-40.0000 sec  9.93 GBytes  17.1 Gbits/sec
+[  1] 40.0000-45.0000 sec  9.41 GBytes  16.2 Gbits/sec
+[  1] 45.0000-50.0000 sec  9.66 GBytes  16.6 Gbits/sec
+[  1] 50.0000-55.0000 sec  9.81 GBytes  16.9 Gbits/sec
+[  1] 55.0000-60.0000 sec  9.40 GBytes  16.1 Gbits/sec
+[  1] 60.0000-65.0000 sec  9.52 GBytes  16.4 Gbits/sec
+[  1] 65.0000-70.0000 sec  9.92 GBytes  17.0 Gbits/sec
+[  1] 70.0000-74.5037 sec  8.77 GBytes  16.7 Gbits/sec
+[  1] 0.0000-74.5037 sec   144 GBytes  16.6 Gbits/sec

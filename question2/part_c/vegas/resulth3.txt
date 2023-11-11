@@ -1,0 +1,68 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.4, TCP port 5001
+TCP congestion control set to vegas
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.3 port 52392 connected with 10.0.0.4 port 5001 (icwnd/mss/irtt=14/1448/6669)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-10.0000 sec  53.9 GBytes  46.3 Gbits/sec
+[  1] 10.0000-20.0000 sec  54.1 GBytes  46.4 Gbits/sec
+[  1] 20.0000-30.0000 sec  51.8 GBytes  44.5 Gbits/sec
+[  1] 30.0000-40.0000 sec  59.2 GBytes  50.8 Gbits/sec
+[  1] 40.0000-50.0000 sec  64.4 GBytes  55.3 Gbits/sec
+[  1] 50.0000-60.0000 sec  58.0 GBytes  49.8 Gbits/sec
+[  1] 60.0000-70.0000 sec  64.7 GBytes  55.6 Gbits/sec
+[  1] 70.0000-80.0000 sec  45.7 GBytes  39.3 Gbits/sec
+[  1] 80.0000-90.0000 sec  45.8 GBytes  39.3 Gbits/sec
+[  1] 90.0000-100.0000 sec  58.1 GBytes  49.9 Gbits/sec
+[  1] 100.0000-110.0000 sec  54.6 GBytes  46.9 Gbits/sec
+[  1] 110.0000-120.0000 sec  52.4 GBytes  45.0 Gbits/sec
+[  1] 120.0000-130.0000 sec  52.1 GBytes  44.8 Gbits/sec
+[  1] 130.0000-140.0000 sec  57.0 GBytes  48.9 Gbits/sec
+[  1] 140.0000-150.0000 sec  52.8 GBytes  45.4 Gbits/sec
+[  1] 150.0000-160.0000 sec  54.3 GBytes  46.7 Gbits/sec
+[  1] 160.0000-170.0000 sec  50.2 GBytes  43.1 Gbits/sec
+[  1] 170.0000-180.0000 sec  52.5 GBytes  45.1 Gbits/sec
+[  1] 180.0000-190.0000 sec  58.3 GBytes  50.0 Gbits/sec
+[  1] 190.0000-200.0000 sec  45.6 GBytes  39.1 Gbits/sec
+[  1] 200.0000-210.0000 sec  47.4 GBytes  40.7 Gbits/sec
+[  1] 210.0000-220.0000 sec  61.9 GBytes  53.2 Gbits/sec
+[  1] 220.0000-230.0000 sec  52.9 GBytes  45.4 Gbits/sec
+[  1] 230.0000-240.0000 sec  54.5 GBytes  46.8 Gbits/sec
+[  1] 240.0000-250.0000 sec  47.9 GBytes  41.2 Gbits/sec
+[  1] 250.0000-260.0000 sec  48.2 GBytes  41.4 Gbits/sec
+[  1] 260.0000-270.0000 sec  47.5 GBytes  40.8 Gbits/sec
+[  1] 270.0000-280.0000 sec  63.4 GBytes  54.5 Gbits/sec
+[  1] 280.0000-290.0000 sec  55.1 GBytes  47.4 Gbits/sec
+[  1] 290.0000-300.0000 sec  62.6 GBytes  53.8 Gbits/sec
+[  1] 300.0000-310.0000 sec  54.9 GBytes  47.2 Gbits/sec
+[  1] 310.0000-320.0000 sec  49.2 GBytes  42.3 Gbits/sec
+[  1] 320.0000-330.0000 sec  45.4 GBytes  39.0 Gbits/sec
+[  1] 330.0000-340.0000 sec  53.2 GBytes  45.7 Gbits/sec
+[  1] 340.0000-350.0000 sec  55.8 GBytes  48.0 Gbits/sec
+[  1] 350.0000-360.0000 sec  50.4 GBytes  43.3 Gbits/sec
+[  1] 360.0000-370.0000 sec  57.0 GBytes  49.0 Gbits/sec
+[  1] 370.0000-380.0000 sec  54.5 GBytes  46.8 Gbits/sec
+[  1] 380.0000-390.0000 sec  47.5 GBytes  40.8 Gbits/sec
+[  1] 390.0000-400.0000 sec  55.4 GBytes  47.6 Gbits/sec
+[  1] 400.0000-410.0000 sec  52.2 GBytes  44.8 Gbits/sec
+[  1] 410.0000-420.0000 sec  52.2 GBytes  44.8 Gbits/sec
+[  1] 420.0000-430.0000 sec  54.4 GBytes  46.8 Gbits/sec
+[  1] 430.0000-440.0000 sec  55.2 GBytes  47.4 Gbits/sec
+[  1] 440.0000-450.0000 sec  57.1 GBytes  49.0 Gbits/sec
+[  1] 450.0000-460.0000 sec  50.9 GBytes  43.8 Gbits/sec
+[  1] 460.0000-470.0000 sec  52.3 GBytes  44.9 Gbits/sec
+[  1] 470.0000-480.0000 sec  58.4 GBytes  50.2 Gbits/sec
+[  1] 480.0000-490.0000 sec  48.4 GBytes  41.6 Gbits/sec
+[  1] 490.0000-500.0000 sec  46.1 GBytes  39.6 Gbits/sec
+[  1] 500.0000-510.0000 sec  47.2 GBytes  40.5 Gbits/sec
+[  1] 510.0000-520.0000 sec  53.3 GBytes  45.8 Gbits/sec
+[  1] 520.0000-530.0000 sec  49.5 GBytes  42.5 Gbits/sec
+[  1] 530.0000-540.0000 sec  46.7 GBytes  40.1 Gbits/sec
+[  1] 540.0000-550.0000 sec  56.2 GBytes  48.3 Gbits/sec
+[  1] 550.0000-560.0000 sec  59.4 GBytes  51.0 Gbits/sec
+[  1] 560.0000-570.0000 sec  53.6 GBytes  46.0 Gbits/sec
+[  1] 570.0000-580.0000 sec  46.7 GBytes  40.1 Gbits/sec
+[  1] 580.0000-590.0000 sec  55.6 GBytes  47.7 Gbits/sec
+[  1] 590.0000-600.0000 sec  54.1 GBytes  46.5 Gbits/sec
+[  1] 0.0000-600.0130 sec  3.12 TBytes  45.8 Gbits/sec

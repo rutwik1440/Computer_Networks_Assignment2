@@ -1,0 +1,20 @@
+------------------------------------------------------------
+Client connecting to 10.0.0.4, TCP port 5001
+TCP congestion control set to reno
+TCP window size: 85.3 KByte (default)
+------------------------------------------------------------
+[  1] local 10.0.0.2 port 38956 connected with 10.0.0.4 port 5001 (icwnd/mss/irtt=14/1448/1815)
+[ ID] Interval       Transfer     Bandwidth
+[  1] 0.0000-5.0000 sec  38.6 GBytes  66.3 Gbits/sec
+[  1] 5.0000-10.0000 sec  38.7 GBytes  66.5 Gbits/sec
+[  1] 10.0000-15.0000 sec  38.7 GBytes  66.5 Gbits/sec
+[  1] 15.0000-20.0000 sec  38.5 GBytes  66.1 Gbits/sec
+[  1] 20.0000-25.0000 sec  37.9 GBytes  65.2 Gbits/sec
+[  1] 25.0000-30.0000 sec  37.7 GBytes  64.8 Gbits/sec
+[  1] 30.0000-35.0000 sec  37.1 GBytes  63.7 Gbits/sec
+[  1] 35.0000-40.0000 sec  37.4 GBytes  64.2 Gbits/sec
+[  1] 40.0000-45.0000 sec  35.4 GBytes  60.8 Gbits/sec
+[  1] 45.0000-50.0000 sec  34.7 GBytes  59.6 Gbits/sec
+[  1] 50.0000-55.0000 sec  34.6 GBytes  59.5 Gbits/sec
+[  1] 55.0000-56.8859 sec  13.8 GBytes  62.9 Gbits/sec
+[  1] 0.0000-56.8859 sec   423 GBytes  63.9 Gbits/sec
